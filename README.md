@@ -1,2 +1,3 @@
 # HTML and CSS Projects
- HTML Projects
+These are some small projects I created using HTML & CSS
+
